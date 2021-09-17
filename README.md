@@ -2,7 +2,7 @@
 
 I am lawyer by training and **junior web developer**:computer: by passion   💙, systematically programming, on both front- and back-end stack since 2020. I have finished Web Development Bootcamp, a very intense (720h) and practice-oriented course that was my springboard into IT world :smile:
 
-<h3> 🛠 &nbsp;Technologies</h3>
+<h3> 🛠 &nbsp;Technologies: </h3>
   
 - 🌐 &nbsp;Frontend:&nbsp;
   ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
