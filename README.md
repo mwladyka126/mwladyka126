@@ -32,4 +32,4 @@ I am lawyer by training and **junior web developer**:computer: by passion   💙
 
 ### ...teamplayer, you should definiately contact [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mwladyka126@gmail.com)](mailto:mwladyka126@gmail.com) me  ✨
 
-###  Take a look on my [Portfolio <img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://mwladyka-portfolio.herokuapp.com) or my [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/malgorzata-wladyka/)](https://www.linkedin.com/in/malgorzata-wladyka/)
+###  Take a look at my [Portfolio <img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://mwladyka-portfolio.herokuapp.com) or my [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/malgorzata-wladyka/)](https://www.linkedin.com/in/malgorzata-wladyka/)
